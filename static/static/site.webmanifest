@@ -1,6 +1,6 @@
 {
-  "name": "Open WebUI",
-  "short_name": "WebUI",
+  "name": "Pixelsize",
+  "short_name": "Pixelsize",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",
